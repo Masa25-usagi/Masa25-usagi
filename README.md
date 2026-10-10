@@ -15,7 +15,6 @@ N高で学びながら、AIを使ってローカルツールやWebアプリを�
 | [Meeting Slides](https://github.com/Masa25-usagi/meeting-slides) | 会話や文字起こしからスライドを作り、PPTX・HTMLへ書き出す |
 | [Slack Session Kit](https://github.com/Masa25-usagi/slack-session-kit) | SDK・CLI・MCPからSlack操作を扱う |
 | [GPT Call Mixer](https://github.com/Masa25-usagi/gpt-call-mixer) | 通話アプリとChatGPTの間の音声をつなぐmacOSミキサー |
-| [Seizibu](https://github.com/Masa25-usagi/Seizibu) | 政策参加プラットフォームの画面プロトタイプ |
 
 ## 開発について
 
